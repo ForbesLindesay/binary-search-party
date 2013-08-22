@@ -1,6 +1,6 @@
 {
   "name": "binary-search-party",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Asynchronous binary search",
   "keywords": [],
   "dependencies": {},
