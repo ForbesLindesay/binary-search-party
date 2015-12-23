@@ -3,7 +3,7 @@
 Asynchronous or Synchronous binary search.  This can be useful for seraching through really useless databases like a pipermail archive.  If you essentially just have a key value store and a list of keys that are known to be in order, you can efficiently search for a specific value using this module.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/binary-search-party/master.svg)](https://travis-ci.org/ForbesLindesay/binary-search-party)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/binary-search-party.svg)](https://gemnasium.com/ForbesLindesay/binary-search-party)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/binary-search-party.svg)](https://david-dm.org/ForbesLindesay/binary-search-party)
 [![NPM version](https://img.shields.io/npm/v/binary-search-party.svg)](https://www.npmjs.org/package/binary-search-party)
 
 ## Installation
