@@ -1,5 +1,7 @@
 # binary-search-party
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/binary-search-party.svg)](https://greenkeeper.io/)
+
 Asynchronous or Synchronous binary search.  This can be useful for seraching through really useless databases like a pipermail archive.  If you essentially just have a key value store and a list of keys that are known to be in order, you can efficiently search for a specific value using this module.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/binary-search-party/master.svg)](https://travis-ci.org/ForbesLindesay/binary-search-party)
